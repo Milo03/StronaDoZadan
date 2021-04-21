@@ -1,0 +1,66 @@
+h1 
+{
+text-align: center;
+font-size: 50px;
+}
+body
+{font-family : Times New Roman;
+}
+
+#wszystko 
+{
+	height : 600px;
+	width : 100%;
+	margin-top : 15px;
+	margin- bottom: 15px;
+}
+h2
+{
+	font-size : 30px;
+}
+#wiosna 
+{ background-color: lightgreen;
+margin-right: 5px;
+float: left;
+width: 464.25px;
+text-align: center;
+
+}
+#lato 
+{background-color: yellow;
+margin-left:5px;
+margin-right: 5px;
+float: left;
+width: 464.25px;
+text-align: center;
+}
+#jesień
+{background-color: orange;
+float: left;
+width: 464.25px;
+text-align: center;
+margin-left:5px;
+margin-right: 5px;
+}
+#zima 
+{background-color: lightblue ;
+float: left;
+width: 464.25px;
+text-align: center;
+margin-left:5px;
+}
+p 
+{font-size: 20px;
+}
+.pasek
+{
+ height :10px;
+ width: 100%;
+ background-color: white;
+}
+img
+{
+	width : 100%;
+	height: 430px;
+	image-align: center;
+}
